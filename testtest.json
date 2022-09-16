@@ -1,11 +1,10 @@
 [
-	{
-		"prsyar":"Nawt chya?",
-		"bzhardakan": [
-			{"bzharda":"abas", "rasta":"true"},
-			{"bzharda":"hajar", "rasta":"false"},
-			{"bzharda":"erfan", "rasta":"false"},
-			{"bzharda":"nazanin", "rasta":"false"}
-		]
-	}
+    {
+        "prsyar": "Nawt chya?",
+        "bzharda1": "hajar",
+        "bzharda2": "erfan",
+        "bzharda3": "nazanin",
+        "bzharda4": "abas",
+        "rast": "abas"
+    }
 ]
