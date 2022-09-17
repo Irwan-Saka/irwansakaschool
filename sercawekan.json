@@ -1,0 +1,44 @@
+[
+  {
+    "title": "هەورەفێرگە",
+    "description": "هەورەفێرگە پڕۆژەی حکومەتی هەرێمی کوردستانە تایبەتکراوە بە خوێندنی ئەلیکترۆنی. سەرجەم بابەت و وانەکان لە ئاستی سەرەتای ، ناوەندی و دواناوەندی تێدا بەردەستکراوە بۆ فێرخوازان.",
+    "link": "https://www.hrf.one/",
+    "reccommended": "yes",
+    "icon": "web"
+  },
+  {
+    "title": "Learn with Zakaria - تعلم مع زكريا ",
+    "description": "کەناڵێکی عەرەبیە لە یوتوب ڤیدیۆی پەروەردەیی و فێرکاری بە هەردوو زمانی ئینگلیزی و عەرەبی دادەنێن. ڤیدیۆ و فێرکاریەکانیان لە ئاستی سەرەتاییەوە دەست پێ دەکات.",
+    "link": "https://www.youtube.com/c/LearnWithZakaria/featured",
+    "reccommended": "no",
+    "icon": "youtube"
+  },
+  {
+    "title": "Arabic Blooms",
+    "description": "کەناڵێکی عەرەبیە لە یوتوب ڤیدیۆی فێرکاری و ڕونکردنەوە بە زمانی عەرەبی و ئینگلیزی دادەنێن. ئاستی زمان لە مامناوەندەوە دەست پێ دەکات.",
+    "link": "https://www.youtube.com/c/arabicblooms",
+    "reccommended": "no",
+    "icon": "youtube",
+  },
+  {
+    "title": "Kids Academy",
+    "description": "کەناڵێکی ئینگلیزیە لە یوتوب بابەتی ڤیدیۆکانیان گفتوگۆیە لەسەر زانیاری گشتی. ئاستی زمان لە مامناوەندەوە دەست پێ دەکات.",
+    "link": "https://www.youtube.com/c/KidsAcademyApps",
+    "reccommended": "no",
+    "icon": "youtube",
+  },
+  {
+    "title": "Omar & Hana - Islamic Cartoons for Kids",
+    "description": "کەناڵێکی ئیسلامییە بۆ منداڵان بابەتی جۆرا و جۆر بە زمانی ئینگلیزی دادەنێن. ڤیدیۆکانیان ئاستی سەرەتایی و مامناوەندن.",
+    "link": "https://www.youtube.com/c/OmarHanaIslamicSongsforKids",
+    "reccommended": "no",
+    "icon": "youtube",
+  },
+  {
+    "title": "پەرتوکخانەی نور - مكتبة نور",
+    "description": "پەرتوکخانەی نور مەڵپەڕێکی ئیسلامییە جۆرەها پەرتوک بە زمانی ئینگلیزی و عەرەبی و کوردی لە یەک شوێندا کۆ کردۆتەوە.",
+    "link": "https://www.noor-book.com/",
+    "reccommended": "yes",
+    "icon": "web",
+  },
+]
